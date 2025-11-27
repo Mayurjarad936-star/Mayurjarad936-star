@@ -45,7 +45,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=  Mayurjarad936-&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=  Mayurjarad936-star &show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurjarad936&theme=radical" width="48%">
 </p>
 
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://github.com/Mayurjarad936-star/Mayurjarad936" target="_blank">
+  <a href="https://github.com/Mayurjarad936-star" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
 </p>
